@@ -1,0 +1,19 @@
+{
+  "name": "jquery.counterup.js",
+  "version": "0.0.1",
+  "description": "Counter-Up is a jQuery plugin that animates a number from zero (counting up towards it)",
+  "main": "jquery.counterup.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chrissonntag/Counter-Up"
+  },
+  "keywords": [],
+  "author": "Benjamin Intal",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/chrissonntag/Counter-Up/issues"
+  },
+  "dependencies": {
+    "jquery": "~3.1.0"
+  }
+}
